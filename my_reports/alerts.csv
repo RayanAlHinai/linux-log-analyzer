@@ -1,0 +1,2 @@
+source_ip,failed_attempts,targeted_users,severity,rule
+198.51.100.44,5,"admin, guest, root, test",medium,Failed authentication attempts >= 5

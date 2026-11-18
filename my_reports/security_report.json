@@ -1,0 +1,23 @@
+{
+    "total_events": 11,
+    "failed_events": 7,
+    "invalid_user_events": 1,
+    "successful_events": 3,
+    "unique_source_ips": 4,
+    "alerts": [
+        {
+            "source_ip": "198.51.100.44",
+            "failed_attempts": 5,
+            "targeted_users": [
+                "admin",
+                "guest",
+                "root",
+                "test"
+            ],
+            "severity": "medium",
+            "rule": "Failed authentication attempts >= 5"
+        }
+    ],
+    "input_file": "samples\\auth.log",
+    "ignored_lines": 0
+}

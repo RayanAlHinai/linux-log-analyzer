@@ -1,0 +1,11 @@
+Nov 16 09:00:01 lab-server sshd[1001]: Accepted password for analyst from 192.0.2.20 port 51001 ssh2
+Nov 16 09:02:11 lab-server sshd[1002]: Failed password for invalid user admin from 198.51.100.44 port 51002 ssh2
+Nov 16 09:02:15 lab-server sshd[1003]: Failed password for root from 198.51.100.44 port 51003 ssh2
+Nov 16 09:02:19 lab-server sshd[1004]: Failed password for root from 198.51.100.44 port 51004 ssh2
+Nov 16 09:02:23 lab-server sshd[1005]: Failed password for test from 198.51.100.44 port 51005 ssh2
+Nov 16 09:02:27 lab-server sshd[1006]: Failed password for guest from 198.51.100.44 port 51006 ssh2
+Nov 16 09:04:10 lab-server sshd[1007]: Accepted publickey for analyst from 192.0.2.20 port 51007 ssh2
+Nov 16 09:05:33 lab-server sshd[1008]: Invalid user oracle from 203.0.113.77
+Nov 16 09:05:40 lab-server sshd[1009]: Failed password for oracle from 203.0.113.77 port 51009 ssh2
+Nov 16 09:06:02 lab-server sshd[1010]: Failed password for root from 203.0.113.77 port 51010 ssh2
+Nov 16 09:07:15 lab-server sshd[1011]: Accepted password for developer from 192.0.2.21 port 51011 ssh2
